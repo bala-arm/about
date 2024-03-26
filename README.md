@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm Bala</h1>
+<h1 align="center">Hi there, I'm Bala 👋🏻</h1>
 <h3 align="center">Cloud Computing</h3>
 
-- 🔭 I’m currently working on **cloud**
+- 🔭 I’m currently working on Cloud Computing
+- 👋 Hybrid Cloud Architect | DevOps | Linux Admin
+- 🔭 Passionate about cloud infrastructure and DevOps
+- 🚀 Specializing in AWS & GCP | 5+ Years Experience
+- 💼 AWS Design & Implementation | HashiCorp Expert
+- 📩 Consult with me for AWS & HashiCorp insights
+- 🤝 Eager to connect with fellow experts!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
